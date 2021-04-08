@@ -7,3 +7,5 @@
 * npm install
 * followed by
 * npm start
+
+This will startup the server which will give you the options to run the app on multiple devices, web, ios, android.
